@@ -5,6 +5,7 @@ The Python-Assistant provides another way to launch the Assistant that's already
 # How it Works.
 
 It use Wolfram|Alpha (also styled WolframAlpha or Wolfram Alpha) which is a computational knowledge engine or answer engine developed by Wolfram Alpha LLC, a subsidiary of Wolfram Research. It is an online service that answers factual queries directly by computing the answer from externally sourced "curated data",rather than providing a list of documents or web pages that might contain the answer as a search engine might. 
+<br />
 Wolfram|Alpha, which was released on May 18, 2009, is based on Wolfram's earlier flagship product Wolfram Mathematica, a computational platform or toolkit that encompasses computer algebra, symbolic and numerical computation, visualization, and statistics capabilities. Additional data is gathered from both academic and commercial websites such as the CIA's The World Factbook, the United States Geological Survey, a Cornell University Library publication called All About Birds, Chambers Biographical Dictionary, Dow Jones, the Catalogue of Life, CrunchBase, Best Buy, the FAA and optionally a user's Facebook account.
 
 # Apart from this you have to import the following libraries through pip:
@@ -19,6 +20,6 @@ import datetime
 import wolframalpha
 import os
 import sys
-
-once all the above libraries are imported successfully simply connect your mic and run the main.py file as computer administrator.
+<br />
+Once all the above libraries are imported successfully simply connect your mic and run the main.py file as computer administrator.
 
