@@ -20,5 +20,5 @@ import wolframalpha
 import os
 import sys
 
-# once all the above libraries are imported successfully simply connect your mic and run the main.py file as computer administrator.
+once all the above libraries are imported successfully simply connect your mic and run the main.py file as computer administrator.
 
