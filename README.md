@@ -20,6 +20,6 @@ import datetime
 import wolframalpha
 import os
 import sys
-<br />
+
 Once all the above libraries are imported successfully simply connect your mic and run the main.py file as computer administrator.
 
