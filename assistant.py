@@ -1,3 +1,18 @@
+import pyttsx3
+import webbrowser
+import smtplib
+import random
+import speech_recognition as sr
+import wikipedia
+import datetime
+import wolframalpha
+import os
+import sys
+
+engine = pyttsx3.init('sapi5')
+
+client = wolframalpha.Client('T4X66Y-WXXUQ28J38')
+
 voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[len(voices)-1].id)
 
